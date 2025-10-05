@@ -23,8 +23,8 @@ An interactive C++ console application that helps users improve their typing spe
 1. Loads valid English words from `words.txt` into a Trie data structure.
 2. Prompts the user to type words in real time.
 3. For each word:
-   - If correct → shows ✓ Correct! in green
-   - If incorrect → shows ✗ Mistake detected! in red and suggests up to 3 similar words.
+   - If correct → shows Correct! in green
+   - If incorrect → shows Mistake detected! in red and suggests up to 3 similar words.
    - If the same word is mistyped repeatedly → shows a warning.
 4. User can type special commands:
    - `exit` - End the session and see summary

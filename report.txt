@@ -1,0 +1,17 @@
+=================================
+      TYPING COACH REPORT       
+=================================
+
+SESSION SUMMARY
+---------------------------------
+Date:             Oct  5 2025 03:11:55
+Total words:      1
+Correct words:    0
+Mistakes:         1
+Accuracy:         0.0%
+Session duration: 5.3 seconds
+Words per minute: 11.2
+
+ALL MISTYPED WORDS
+---------------------------------
+- jujuu: 1 times
